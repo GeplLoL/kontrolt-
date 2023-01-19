@@ -37,3 +37,11 @@
 #    y+=1
 #    m+=y
 #print(f"nii palju sa teenid: {m}$")
+#n =0
+#m =1
+#print("0","1 " ,end="")
+#for i in range(1,100,1):
+#    mn=n+m
+#    n=m
+#    m=mn
+#    print(mn," ",end="")
