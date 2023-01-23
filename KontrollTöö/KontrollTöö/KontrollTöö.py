@@ -22,13 +22,6 @@
 #opilane = randint(1,30)
 #hinne = randint(1,5)
 #print(f"õpilaste keskmine hinne: {float(opilane)*float(hinne)/float(opilane)}")
-#m=0
-#y=0
-#x = input("kui palju raha tahad saada? ")
-#while m<int(x):   
-#    y+=1
-#    m+=y
-#    print(m)
 #m=y=0
 #x = input("kui vanaks sa saad? ")
 #while x.isdigit()==False:
